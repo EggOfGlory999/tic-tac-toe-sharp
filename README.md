@@ -21,11 +21,11 @@ Have a good day!</b>
      Websites:
   <br>
   <br>
-          <a href="https://github.com/OttoBotCode/Tic-Tac-Toe">His original works</a>
+          <a href="https://github.com/OttoBotCode/Tic-Tac-Toe">His original works.</a>
   <br>
           <a href="https://github.dev">My code error checker!</a>
-  <br>
-  <br>
+<br>
+<a href="ottobotcode.com/ticTacToeAssets">Where I got the assets.</a>
   <br>
   <br>
     If I used anything else, I will cite my sources here!

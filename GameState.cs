@@ -1,5 +1,6 @@
 using System;
 
+<<<<<<< HEAD
 namespace GameState
 {
     public class GameState
