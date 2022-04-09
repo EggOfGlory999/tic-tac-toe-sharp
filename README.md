@@ -10,7 +10,7 @@ Have a good day!</b>
   Citations:
       Videos:
         <b><a href="https://www.youtube.com/watch?v=OHRWRpT9WcE">Programming a Tic-Tac-Toe Game in C# - Full Guide</a> by OttoBotCode!
-  Go check his work made <a href="https://github.com/OttoBotCode/Tic-Tac-Toe">here!>/a></b>
+  Go check his work made <a href="https://github.com/OttoBotCode/Tic-Tac-Toe">here!</a></b>
         
     Websites:
         <b><a href="github.dev">Github Dev!</a></b>
