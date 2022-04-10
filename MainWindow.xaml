@@ -5,9 +5,11 @@
         mc:Ignorable="d"
         Title="Tic-Tac-Toe" Height="450" Width="800"
         FontFamily="Verdana"
-        Background="{StaticResource BackgroundColor}">
+        Background="{StaticResource BackgroundColor}"
+        WindowStartupLocation="CenterScreen">
 
-    <Grid>
+    <Viewbox>
+        <Grid>
         <Grid.RowDefinitions>
             <RowDefinition Height="auto"/>
             <RowDefinition Height="*"/>
@@ -26,7 +28,8 @@
         <Canvas x:Name="GameCanvas"
                 Grid.Row="1"
                 Width="300"
-                Height="300">
+                Height="300"
+                Margin="20">
             <UniformGrid x:Name="GameGrid"
                          Width="300"
                          Height="300"
@@ -69,6 +72,7 @@
                         BorderBrush="Black"
                         Click="Button_Click"/>
 
-        </Grid>         
+        </Grid>
+    </Viewbox>        
     </Grid>
 </Window>
